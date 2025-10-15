@@ -18,7 +18,7 @@ deci = 5.7
 comp_num = 3+4j
 
 ## Boolean -- bool
-
+# true and false
 
 ## sequence 
 
