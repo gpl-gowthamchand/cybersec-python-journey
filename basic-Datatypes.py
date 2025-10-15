@@ -18,7 +18,8 @@ deci = 5.7
 comp_num = 3+4j
 
 ## Boolean -- bool
-# true and false
+# True and False
+# which is internally stored integers True=1 and False=0
 
 ## sequence 
 
