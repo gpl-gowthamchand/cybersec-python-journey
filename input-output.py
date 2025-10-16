@@ -1,7 +1,7 @@
 #input
 
 
-name = input("Enter your name: ") # we can also include a string inside the input() function
+name = input("Enter your name: ") # we can also include a string inside the input() function, the string inside it passed prompt.
 
 num = input()  # it takes str as default input type
 
