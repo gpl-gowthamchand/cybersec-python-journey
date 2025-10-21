@@ -6,9 +6,9 @@ num = int(input("Enter a number: "))
 rev = 0
 
 while( num > 0) :
-    lastDigit = num % 10 
-    rev = rev * 10 + lastDigit
-    num = num // 10
+    lastDigit = num % 10          # getting the last digit
+    rev = rev * 10 + lastDigit    # add digit to the reversed number
+    num = num // 10               # remove the last digit
 
 print(rev)
 
