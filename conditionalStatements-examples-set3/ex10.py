@@ -6,9 +6,9 @@ if len(char) == 1 :
     ascii_val = ord(char)
 
     if ascii_val >= 97 and ascii_val <= 122 :
-        print(f"{char} is lowercase")
-    elif 97 <= ascii_val <= 122:
-        print(f"{char} is a lowercase letter.")
+        print(f"{char} is lowercase letter")
+    elif 65 <= ascii_val <= 90:
+        print(f"{char} is a uppercase letter.")
     elif 48 <= ascii_val <= 57:
         print(f"{char} is a digit.")
     else:
