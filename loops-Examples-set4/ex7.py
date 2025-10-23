@@ -20,7 +20,7 @@ num = int(input("Enter a number: "))
 num = str(num)
 length = len(num)
 while(length > 0 ):
-    print(num[length-1], end=("")) # index starts from 0, if lenght=4, then 0 1 2 3
+    print(num[length-1], end=("")) # index starts from 0, if length=4, then 0 1 2 3
     length = length-1 
 
 
