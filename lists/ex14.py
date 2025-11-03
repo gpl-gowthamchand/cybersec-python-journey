@@ -1,3 +1,5 @@
+# Count the number of failed login attempts.
+
 attempts = [("admin", "success"), ("guest", "failed"), ("root", "failed")]
 
 count = 0 
