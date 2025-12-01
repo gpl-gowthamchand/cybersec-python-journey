@@ -1,0 +1,4 @@
+File Handling is easy.
+This is the second line.
+100
+this is last line.
