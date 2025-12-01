@@ -12,8 +12,8 @@ process:
 
 syntax:
 1 ) 
-var_name = open("file.txt","mode"):
-    #operations
+var_name = open("file.txt","mode")
+#operations
 var_name.close
 
 2) with method - self closing 
