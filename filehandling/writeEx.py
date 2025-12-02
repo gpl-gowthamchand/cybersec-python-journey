@@ -6,6 +6,8 @@ with open("writeDemo.txt", "w") as file:  # opening in w mode, clear all if alre
 
     file.write("this is line two") # adds this 2nd line data in the same line 
 
+# After run 1, "writeDemo.txt" contains: "this is first line16this is line two"
+# (The '16' is printed to the console, but not written to the file)
 
 
 # 2 second run
@@ -13,6 +15,8 @@ with open("writeDemo.txt", "w") as file:  # opening in w mode, clear all if alre
 
 with open("writeDemo.txt", "w") as file:
     file.write("this is 2nd run first line")
+
+# After run 2, "writeDemo.txt" contains: "this is 2nd run first line"
 
 
 # 3 third run using .writelines()
