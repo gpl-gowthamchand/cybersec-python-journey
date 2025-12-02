@@ -1,1 +1,3 @@
-this is 2nd run first line
+Line 1 from writelines.
+Line 2 from writelines.
+Line 3 without a newline---END OF FILE---
