@@ -1,0 +1,24 @@
+ {
+  "countries": [
+    {
+      "name": "Albania",
+      "code": "+355"
+    },
+    {
+      "name": "Japan",
+      "code": "+81"
+    },
+    {
+      "name": "Russia",
+      "code": "+7"
+    },
+    {
+      "name": "India",
+      "code": "+91"
+    },
+    {
+      "name": "Germany",
+      "code": "+49"
+    }
+  ]
+}

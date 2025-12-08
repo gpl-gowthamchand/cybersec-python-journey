@@ -1,0 +1,29 @@
+{
+    "countries" : [
+  {
+    "name": "Albania",
+    "abbreviation": "AL",
+    "code": "+355"
+  },
+  {
+    "name": "Japan",
+    "abbreviation": "JP",
+    "code": "+81"
+  },
+  {
+    "name": "Russia",
+    "abbreviation": "RU",
+    "code": "+7"
+  },
+  {
+    "name": "India",
+    "abbreviation": "IN",
+    "code": "+91"
+  },
+  {
+    "name": "Germany",
+    "abbreviation": "DE",
+    "code": "+49"
+  }
+]
+}
