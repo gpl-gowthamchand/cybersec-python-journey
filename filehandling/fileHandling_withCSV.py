@@ -10,3 +10,4 @@ with open("names.csv", "r") as file:
     ## loop through it to get data
     for line in data:
         print(line)
+        print(line[1]) # this prints only at index 1
